@@ -1,0 +1,15 @@
+{
+  "name": "atom-type-english-only",
+  "main": "./lib/atom-type-english-only",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/pvorona/atom-type-english-only",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
